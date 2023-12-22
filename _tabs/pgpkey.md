@@ -5,7 +5,8 @@ order: 5
 title: PGP Key
 ---
 
-You can find this and other keys at: [OpenPGP] (https://keys.openpgp.org/)
+You can find this and other keys at: [OpenPGP](https://keys.openpgp.org/)
+
 Below is the text form of my public PGP key: A3CFD4620572773B8E679798BC2D76765503FEED
 
 ```
