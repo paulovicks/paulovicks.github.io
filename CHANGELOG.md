@@ -9,14 +9,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- Create /assets/img/favicons
+- Added favicon files to /assets/img/favicons
+- Created /assets/img/favicons
+- Created ad.txt file (AdSense)
 - Created PGP Key page
 - This CHANGELOG file.
 - CNAME file to enable GitHub Pages custom domain
 
 ### Changed
 
-- Updated favicon
 - Tested blog post
 - Updated share.yml file
 - Updated contact.yml file
