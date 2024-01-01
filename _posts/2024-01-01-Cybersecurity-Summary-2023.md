@@ -59,7 +59,7 @@ detection, making it a potential game-changer in the cyber-arms race.
 
 2023 was a year of lessons learned and challenges surmounted. As we step into 2024, the need for agility,
 innovation, and collaboration in cybersecurity is greater than ever. Here is a looks at some of the items
-we need to keep watch on along with the normal threat landscape.
+we need to keep watch on along with the normal threat landscape.  
 
 -	Quantum Quandary: The rise of quantum computing looms on the horizon, posing a potential threat to
 current encryption standards. Research into quantum-resistant cryptography will be crucial to staying
