@@ -5,7 +5,8 @@ categories: [Linux]
 tags: [audit, auditing, log, logging, auditd] 
 ---
 
-Linux auditing allows you to track and record security-relevant events happening on your system. This information can be invaluable for detecting suspicious activity, troubleshooting issues, and complying with regulations. The primary tool for achieving this is auditd.
+Linux auditing allows you to track and record security-relevant events happening on your system. This information can be invaluable for detecting suspicious activity,
+troubleshooting issues, and complying with regulations. The primary tool for achieving this is auditd.
 
 Key Concepts:
 
@@ -24,7 +25,7 @@ Key Concepts:
 #### Using auditd
 
 - Enable auditing: Ensure the auditd service is running.
-- Define rules: Edit the /etc/audit/audit.rules file to specify which events to capture.
+- Define rules: Edit the `/etc/audit/audit.rules`{: .filepath} file to specify which events to capture.
 - Restart auditd: Apply the changes by restarting the service.
 - Analyze logs: Use tools like ausearch or aureport to search and analyze the generated logs.
 
